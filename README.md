@@ -12,27 +12,14 @@ production-ready solutions.
 Currently working on an audit-platform SaaS, focused on reliable logging,
 traceability, and real-world compliance needs.
 
-🛠 Tech Stack
+### 🛠 Tech Stack
 
-Languages & Frameworks
+- **Languages & Frameworks:** PHP, Symfony  
+- **Databases:** MySQL, PostgreSQL  
+- **Caching & Messaging:** Redis, RabbitMQ  
+- **Search & Observability:** Elasticsearch, Prometheus, Grafana  
+- **DevOps & Infrastructure:** Docker, AWS
 
-PHP, Symfony
-
-Databases
-
-MySQL, PostgreSQL
-
-Caching & Messaging
-
-Redis, RabbitMQ
-
-Search & Observability
-
-Elasticsearch, Prometheus, Grafana
-
-DevOps & Infrastructure
-
-Docker, AWS
 
 🌱 Currently Learning
 
