@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 About Me
 
-<!--
-**rcsofttech85/rcsofttech85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```php
+<?php
+echo "Hello World from Rahul Chavan";
+```
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a PHP & Symfony developer focused on building clean, maintainable, and
+production-ready solutions.
+
+Currently working on an audit-platform SaaS, focused on reliable logging,
+traceability, and real-world compliance needs.
+
+🛠 Tech Stack
+
+PHP, Symfony, Doctrine, MySQL
+
+🌱 Currently Learning
+
+Rust — exploring its use for building efficient, reliable systems.
+
+📦 Open Source
+Maintainer of AuditTrailBundle
+
+Maintainer of AuditTrailBundle
+
