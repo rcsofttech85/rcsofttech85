@@ -26,7 +26,7 @@ traceability, and real-world compliance needs.
 Rust — exploring its use for building efficient, reliable systems.
 
 📦 Open Source
-Maintainer of AuditTrailBundle
+
 
 Maintainer of AuditTrailBundle
 
