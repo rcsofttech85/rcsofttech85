@@ -14,7 +14,25 @@ traceability, and real-world compliance needs.
 
 🛠 Tech Stack
 
-PHP, Symfony, Doctrine, MySQL
+Languages & Frameworks
+
+PHP, Symfony
+
+Databases
+
+MySQL, PostgreSQL
+
+Caching & Messaging
+
+Redis, RabbitMQ
+
+Search & Observability
+
+Elasticsearch, Prometheus, Grafana
+
+DevOps & Infrastructure
+
+Docker, AWS
 
 🌱 Currently Learning
 
