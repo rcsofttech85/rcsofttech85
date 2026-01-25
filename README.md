@@ -12,6 +12,8 @@ production-ready solutions.
 Currently working on an audit-platform SaaS, focused on reliable logging,
 traceability, and real-world compliance needs.
 
+![Premium Dashboard Preview](premium-dashboard.gif)
+
 ### 🛠 Tech Stack
 
 - **Languages & Frameworks:** PHP, Symfony  
