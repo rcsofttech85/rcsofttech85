@@ -2,7 +2,7 @@
 
 ```php
 <?php
-echo "Hello World from Rahul Chavan";
+echo "Rahul Chavan";
 ```
 
 
@@ -30,4 +30,6 @@ Rust — exploring its use for building efficient, reliable systems.
 
 
 Maintainer of AuditTrailBundle
+
+If you find my work useful, you can support it by sponsoring my open-source work or buying me a coffee.
 
